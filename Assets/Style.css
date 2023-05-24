@@ -1,0 +1,76 @@
+body {
+ margin: 0;
+ font-family: 'Montserrat', sans-serif;
+ font-size: 15px;
+ line-height: 1.6;
+ color: #333;
+}
+
+*:before,
+*:after {
+ box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5{
+margin: 0;
+}
+
+.font {
+ font-family: "Bradley Hand"; 
+}
+
+/*.container{
+width: 100%;
+max-width: 1200px;
+margin: 0 auto;
+}*/
+
+/* intro */
+.intro {
+ background-image: url("Images/Background_site_13.png"); 
+ background-size: no-repeat;
+   background-position: center;
+   background-size: cover;
+   height: 928px;
+   width: 1920px;
+} 
+.intro_2 {
+ background-image: url("Images/Background_site_5.png");
+ background-size: no-repeat;
+ background-position: center;  
+ background-size: cover;
+ height: 700px;
+ width: 1920px; 
+}
+
+.intro_3 {
+ background-image: url("Images/Background_site_8.png"); 
+ background-size: no-repeat;
+   background-position: center;
+   background-size: cover;
+   height: 928px;
+   width: 1920px;
+} 
+.intro_4 {
+ background-image: url("Images/Background_site_14.png"); 
+ background-size: no-repeat;
+   background-position: center;
+   background-size: cover;
+   height: 820px;
+   width: 1920px;
+}
+.intro_5 {
+ background-image: url("Images/Background_site_11.png"); 
+ background-size: no-repeat;
+   background-position: center;
+   background-size: cover;
+   height: 820px;
+   width: 1920px;
+}  
+
+
+#rectangle {
+    width: 1920px;
+    height: 110px;
+    background: Black;
+}
